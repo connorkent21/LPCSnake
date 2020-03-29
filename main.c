@@ -1,9 +1,5 @@
 /*
-Snake Game by:
-
-Thomas Manley (20656248) & Connor Kent (20702691)
-
-MTE 241 Lab 5
+Snake Game
 
 TASK 1: Check tokens eaten
 TASK 2: Input from the joystick and move accordingly
